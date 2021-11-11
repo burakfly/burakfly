@@ -20,7 +20,7 @@
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
-<a href="#" target="_blank"> <img src="//https://docs.scipy.org/doc/scipy/_static/scipyshiny_small.png" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 ## 💻 Languages
 
