@@ -38,25 +38,25 @@
  <!--Statistics-->
 <div align="center">
   <div align="center">
-<a href="https://github.com/SdtAslan/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=SdtAslan&color=f75c7e">
+<a href="https://github.com/burakfly/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=burakfly&color=f75c7e">
 </a>
-<a href="https://github.com/SdtAslan?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/SdtAslan?style=flat-square&color=f75c7e">
+<a href="https://github.com/burakfly?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/burakfly?style=flat-square&color=f75c7e">
 </a>
   </div>
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SdtAslan&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakfly&show_icons=true&theme=radical" />
 </div>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SdtAslan&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=burakfly&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SdtAslan&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=burakfly&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SdtAslan&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakfly&layout=compact&theme=radical" />
 </a>
 </div>
 
@@ -76,5 +76,5 @@
 </table>-->
   
   
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SdtAslan&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/burakfly/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=burakfly&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/burakfly/burakfly/blob/output/github-contribution-grid-snake.svg" /></div>
